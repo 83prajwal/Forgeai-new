@@ -1,0 +1,12 @@
+generated_projects/
+logs/
+jobs/
+showcase/*/showcase.db
+showcase/*/process.json
+showcase/*/port.txt
+showcase/*/*.log
+__pycache__/
+*.py[cod]
+.env
+,env
+venv/
